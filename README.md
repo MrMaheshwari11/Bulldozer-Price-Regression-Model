@@ -54,7 +54,7 @@ The dataset used in this project contains over **400,000 records** of bulldozer 
 - Incorporate additional features such as regional economic data for enhanced accuracy.  
 
 ## License  
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code with proper attribution.  
+This project is licensed under the **MIT License**.
 
 ## Acknowledgments  
 - **Dataset**: Kaggle’s Bluebook for Bulldozers competition.  
